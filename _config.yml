@@ -1,6 +1,6 @@
 # main text of home
-name: Eemeli Erkkola
-bio: A Master of Physics (with Honours), Bachelor of Science (BSc MPhys) with a passion for machine learning and data science.
+name: Emil (Eemeli) Erkkola
+bio: Master of Physics (with Honours), Bachelor of Science (BSc MPhys) with a passion for machine learning and data science.
 
 # twitter summary info
 description: Emil's website
@@ -14,7 +14,7 @@ picture: assets/images/emil.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.dropbox.com/s/rh2olk489d2fabw/CVEemeli%20%282%29.pdf?dl=0
 
 url: https://youngmil.github.io
 # your url: http://USERNAME.github.io
@@ -30,8 +30,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname: # enter this from your disqus account
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -39,32 +39,26 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: www.linkedin.com/in/eemeli-erkkola-49771a145
+linkedin: eemeli-erkkola-49771a145/
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/youngmil
+github: youngmil
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: emil.e@live.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    eemelierkkola:
+        name: Eemeli Erkkola
+        bio: Master's in Physics graduate with a passion for machine learning
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/emil.png
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -83,13 +77,13 @@ about: true
 #blog: false
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
