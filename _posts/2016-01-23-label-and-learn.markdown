@@ -11,10 +11,9 @@ description: "This is a simple and minimalist template for Jekyll for those who 
 category: project
 author: johndoe
 externalLink: false
-image: '<img title=":shot:" alt=":shot:" src="assets/images/screen-shot.png">'
 ---
 
-![Screenshot](:shot:)
+![Screen-shot](/assets/screen-shot.png){:class="img-responsive"}
 
 Obtaining labelled data to train a classifier can be tedious and expensive. The motivation behind the Label and Learn project was to cut down time spent obtaining labelled data, and allow for easy cooperation on machine learning projects by creating a simple front-end that anyone can use to label and re-train the neural network. This can speed up the process of data labelling and model training as work can be delegated to anyone without coding knowledge, as long as there is a consistent logic behind labels. 
 
