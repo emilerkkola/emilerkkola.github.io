@@ -22,9 +22,9 @@ There are several problems to deal with when collecting meaningful data to train
 The demo here is a simplified version of the front-end I use myself, however it serves as a showcase on the potential a front-end such as Label and Learn has. Future plans include creating a generalised version, for any classifier network with n-classes, with a database holding descriptions, data sets, models, weights, and most recent accuracies. Currently the demo uses datasets and models from the Github repository, and serves as a proof-of-concept. 
 
 
-Follow [this](http://sergiokopplin.github.io/indigo/) link for the demo.
+Follow this link for the demo.
 
-Follow [this](http://sergiokopplin.github.io/indigo/) link for the Github repository.
+Follow [this](https://github.com/youngmil/labelandlearn) link for the Github repository.
 
 ---
 
