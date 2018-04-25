@@ -7,9 +7,9 @@ image: https://www.ethereum.org/images/logos/ETHEREUM-ICON_Black_small.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Neural network for useful tweet classification"
 category: project
-author: johndoe
+author: eemelierkkola
 externalLink: false
 ---
 
