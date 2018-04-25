@@ -30,7 +30,6 @@ Follow [this](https://github.com/youngmil/labelandlearn) link for the Github rep
 
 Stack:
 
-- AWS
 - Flask
 - Python - keras, tensorflow, pandas, matplotlib
 - HTML / Bootstrap
