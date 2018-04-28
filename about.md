@@ -6,7 +6,7 @@ layout: page
 
 <p>My name is Emil and I am a Masters of Physics graduate from University of Warwick 2017. I am very interested in the fields of machine learning, artificial intelligence, deep learning, computer vision, data scraping, data processing and web design. I like to build and prototype models using Flask on Python.</p>
 
-<p>I am currently working in Europe’s biggest fintech company as a data analyst, whilst working on machine learning projects in my time outside of work. The current project I am working on is titled Label and Learn, a useful tweet classifier for the cryptocurrency Ethereum, which I aim to use to predict Ethereum price using sentiment analysis as one of the main indicators. </p>
+<p>I am currently working in Europe’s largest fintech company as a data analyst, whilst working on machine learning projects in my time outside of work. The current project I am working on is titled Label and Learn, a useful tweet classifier for the cryptocurrency Ethereum, which I aim to use to predict Ethereum price using sentiment analysis as one of the main indicators. </p>
 
 <h2>Skills</h2>
 
