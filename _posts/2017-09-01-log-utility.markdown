@@ -14,7 +14,7 @@ externalLink: false
 ---
 
 
-Integrated payment clients enable communication between pin-entry devices and mobile / desktop devices to enable payments processing. These clients store transaction information in log files, that allow for troubleshooting of errors and transaction tracking. 
+Integrated payment clients handle communication between pin-entry devices and mobile / desktop devices to enable payments processing. These clients store transaction information in log files, that allow for troubleshooting of errors and transaction tracking. 
 
 Error analysis through log files is often left as manual labour for technical consultants and data analysists, resulting in long and tedious scrolling through hundreds of log files each with thousands of lines of transaction info. However, this process could easily be automated using simple dictionary and list comprehension in Python. Upon starting as a data analyst at Worldpay, I began developing a log utility tool to scrape key transaction information from hundreds of log files at a time. The logic of the tool greatly depends on the logging style of an individual payment client, and the transaction flow in this specific case was not linear. Nested transactions occur frequently, and for this reason I assigned a unique thread number as the dictionary key for each transaction. 
 
