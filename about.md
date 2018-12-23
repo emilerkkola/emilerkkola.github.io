@@ -17,9 +17,3 @@ layout: page
 	<li>HTML, CSS, Basic Knowledge of Vue</li>
 	<li>Git</li>
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/youngmil/labelandlearn">Label and Learn: Ethereum</a></li>
-</ul>
