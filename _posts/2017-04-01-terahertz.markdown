@@ -2,7 +2,7 @@
 title: "Dual Beam Terahertz Time-Domain Spectroscopy"
 layout: post
 date: 2017-04-01
-tag: data scraping, transactions
+tag: automated data collection, data processing, data analysis
 image: https://i.pinimg.com/originals/5f/9a/43/5f9a432cc5037901db54329657555f9a.jpg
 headerImage: true
 projects: true
