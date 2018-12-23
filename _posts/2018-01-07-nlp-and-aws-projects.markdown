@@ -1,7 +1,7 @@
 ---
 title: "NLP and AWS 2018"
 layout: post
-date: 2018-01-07
+date: 2018-07-01
 tag: nlp, keras, neural network, classification, topic modelling, cloud computing, cloud infrastructure, cloud backend, GUI frontend
 image: https://images.techhive.com/images/article/2015/05/aws-logo-100584713-primary.idge.jpg
 headerImage: true
