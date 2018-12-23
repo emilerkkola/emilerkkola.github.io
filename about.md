@@ -16,4 +16,5 @@ layout: page
 	<li>Keras, Tensorflow, Pytorch, Pandas, Scikitlearn, Matplotlib, NLTK, Spacy, Gensim, Hyperopt</li>
 	<li>HTML, CSS, Basic Knowledge of Vue</li>
 	<li>Git</li>
+	<li>[Kaggle profile](https://www.kaggle.com/eeeedev)</li>
 </ul>
