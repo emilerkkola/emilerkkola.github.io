@@ -21,7 +21,7 @@ The data used was from the [Kaggle Quora Competition](https://www.kaggle.com/c/q
 
 TensorboardX is one of the most useful tools for visualising scalars / data during training, and when using an optimiser this becomes crucial to monitor the best performing candidate parameters for a network. For the sake of simplicity I have only optimised over a few parameters here, however it is easy to see the potential in using an optimizer such as hyperopt to tune your network.
 
-Please find the code for this project in the [Github Repository](https://www.kaggle.com/c/quora-insincere-questions-classification)
+Please find the code for this project in the [Github Repository](https://github.com/emilerkkola/LSTM-hyperopt-tensorboardX)
 
 ---
 
