@@ -1,7 +1,7 @@
 ---
 title: "Optimising RNN Architecture with hyperopt"
 layout: post
-date: 2018-07-02
+date: 2019-01-01
 tag: nlp, keras, neural network, classification, hyperparameter tuning, bayesian optimization
 image: https://www.benlcollins.com/wp-content/uploads/2016/01/quora.png
 headerImage: true
