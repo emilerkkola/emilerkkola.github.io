@@ -27,7 +27,7 @@ Please find the code for this project in the [Github Repository](https://github.
 
 Stack:
 
-- Python - keras, hyperopt, tensorboardX, pandas, matplotlib, NLTK, spacy, gensim
+- Python - keras, hyperopt, tensorboardX, pandas, matplotlib
 
 ---
 
